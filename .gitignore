@@ -1,0 +1,9 @@
+# Ignorar archivos .old (backups de repo-add)
+*.old
+
+# Ignorar archivos temporales
+*.tmp
+*.partial
+
+# Ignorar backups locales
+*.bak
